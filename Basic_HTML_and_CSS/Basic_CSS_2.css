@@ -1,0 +1,10 @@
+p {
+	color: snow;
+	background: black;
+	font-style: bold;
+	text-align: center;
+}
+
+body {
+  text-shadow: 2px 2px #FF0000;
+}
