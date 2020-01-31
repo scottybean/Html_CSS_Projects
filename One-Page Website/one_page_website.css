@@ -18,10 +18,10 @@ h1 {
     font-size: 40px;
 }
 
-form {
-    width: 100%;
-    margin: 100px 0;
-    border: 10px solid red;
+input {
+    width: 25%;
+    margin: 1px 0;
+    border: 1px solid red;
     border-radius: 4px;
 }
 
